@@ -1,5 +1,5 @@
 # Spa-Bot
 
- Developing and optimizing prompts to efficiently use language models (LMs) for a Spa Finder bot 
+ Developing and optimizing prompts to efficiently use language models (LMs) for a business client bot 
 
-Testing systems prompt for bot behaviors and flows
+Testing system prompt for bot behaviors and flows
