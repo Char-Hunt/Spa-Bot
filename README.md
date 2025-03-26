@@ -1,5 +1,9 @@
-# Spa-Finder
+Purpose
 
- Developing and optimizing prompts to efficiently use language models (LMs) for a business client bot 
+People
 
-Testing system prompt for bot behaviors and flows
+Profile
+
+Company Info
+
+QA
