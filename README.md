@@ -1,12 +1,16 @@
-#Purpose
+### gpt chatbot directive
 
-People
+- 🔭 Purpose
 
-Profile
+- 👨‍💻 People
 
-Company Info
+- 🌱 gpt builder answers FAQ's for my spa customers
 
-QA
+- Profile
 
-Answers FAQ's for massage spa customers with a focus on massage, skin care, and personal well-being.
+- Company Info
+
+- QA
+
+
 
