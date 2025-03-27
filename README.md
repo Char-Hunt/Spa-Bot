@@ -12,5 +12,5 @@
 - 🤔💭 QA
 
 ##
-- 🔧 gpt builder answers FAQ's for my spa customers
+- 🔧 gpt builder answers FAQ's for business customers
 
