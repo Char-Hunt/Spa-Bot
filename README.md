@@ -1,16 +1,16 @@
-### gpt chatbot directive
+### gpt chatbot directive 🌱 
 
 ##
-- 🔭 Purpose
+- 📍 Purpose
 
 - 👨‍💻 People
 
-- Profile
+- 🔭 Profile
 
-- Company Info
+- 💼 Company Info
 
-- QA
+- 🤔💭 QA
 
 ##
-- 🌱 gpt builder answers FAQ's for my spa customers
+- 🔧 gpt builder answers FAQ's for my spa customers
 
