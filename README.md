@@ -12,5 +12,5 @@
 - 🤔💭 QA
 
 ##
-- 🔧 My custom gpt build answers FAQ's for business customers
+- 🔧 My custom gpt build answers FAQ's for business clients
 
